@@ -1,3 +1,8 @@
+kelompok:
+Ahmad Julio Rizki 1817051042
+Muhammad Arief Islamy 1857051010
+
+	
 #include <iostream>
 #include <cstdlib>
 #include <stdlib.h>
